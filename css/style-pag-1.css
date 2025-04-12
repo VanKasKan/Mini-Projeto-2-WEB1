@@ -1,0 +1,64 @@
+.div-navegacao {
+    padding: 10px;
+    background-color: rgb(255, 142, 82);    
+    color: black;
+    font-size: large;
+}
+.links-header {
+    margin: 10px;   
+    word-spacing: 25px;
+    font-size: large;
+}
+a{
+    color: black;
+    text-decoration: none;
+    text-align: right;
+    
+}
+.div-apresentacao {
+    padding: 10px;
+    background-color: rgb(55, 49, 66);
+    color: black;
+    text-align: left;
+    font-size: large;
+    background-image: url(Zhongli-Scroll.jpeg);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.div-caracteristicas {
+    padding: 10px;
+    background-color: rgb(55, 49, 66);
+    color: black;
+    display: flex;
+    font-size: large;
+}
+.div-habilidades {
+    background-color: rgb(55, 49, 66);
+    color: black;
+    padding: 10px;
+    display: flex;
+    font-size: large;
+}
+.div-rodape {
+    background-color:rgb(255, 142, 82);
+    color: black;
+    text-align: center;
+    padding: 10px;
+
+}
+.item {
+    background-color: rgb(255, 142, 82);
+    flex: 1;
+    color: black;
+    margin: 30px;
+    border-radius: 50px;
+}
+p, ul {
+    font-size: large;
+}
+h2 {
+    text-align: center;
+}
+a,p,h1,h2,h3,h4,li {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
