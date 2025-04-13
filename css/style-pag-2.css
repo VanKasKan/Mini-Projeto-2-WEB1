@@ -21,7 +21,7 @@ a,p,h1,h2,h3,h4,li {
 .div-apresentacao {
     padding: 10px;
     background-color: rgb(55, 49, 66);
-    color: black;
+    color: white;
     text-align: left;
     font-size: large;
     display: flex;
@@ -43,3 +43,6 @@ a,p,h1,h2,h3,h4,li {
     padding: 10px;
     
 }   
+img {
+    border: solid black;
+}
